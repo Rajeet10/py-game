@@ -1,1 +1,1 @@
-# py-game
+# py-game including random number
